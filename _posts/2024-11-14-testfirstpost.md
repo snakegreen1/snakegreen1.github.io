@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "testfirstpost"
-date: 2024-11-14 20:53:59
+date: 2024-11-14 20:53:59 +0900
 tags: []
 ---
 내용테스트
